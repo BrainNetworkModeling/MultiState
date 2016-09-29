@@ -1,8 +1,0 @@
-*.*
-
-!.gitignore
-
-!*.m
-
-!*.md
-!MultiState*/
